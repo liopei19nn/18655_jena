@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description xmlns:xs="http://www.w3.org/TR/2008/REC-xml-20081126#" rdf:about="">
+<ns0:dblp xmlns:ns0="#">
+<rdf:Description rdf:about="#dblp">
+<ns1:article xmlns:ns1="#">
+<rdf:Description rdf:about="#dblp/article">
+<ns2:mdate xmlns:ns2="#">2011-01-11</ns2:mdate>
+<ns3:key xmlns:ns3="#">journals/acta/Saxena96</ns3:key>
+<ns4:author xmlns:ns4="#">
+<rdf:Description rdf:about="#dblp/article/author">
+<rdf:value>Sanjeev Saxena</rdf:value>
+</rdf:Description>
+</ns4:author>
+<rdf:_1>
+<rdf:Description rdf:about="#dblp/article/author"/>
+</rdf:_1>
+<ns5:title xmlns:ns5="#">
+<rdf:Description rdf:about="#dblp/article/title_2">
+<rdf:value>Parallel Integer Sorting and Simulation Amongst CRCW Models.</rdf:value>
+</rdf:Description>
+</ns5:title>
+<rdf:_2>
+<rdf:Description rdf:about="#dblp/article/title_2"/>
+</rdf:_2>
+<ns6:pages xmlns:ns6="#">
+<rdf:Description rdf:about="#dblp/article/pages_3">
+<rdf:value>607-619</rdf:value>
+</rdf:Description>
+</ns6:pages>
+<rdf:_3>
+<rdf:Description rdf:about="#dblp/article/pages_3"/>
+</rdf:_3>
+<ns7:year xmlns:ns7="#">
+<rdf:Description rdf:about="#dblp/article/year_4">
+<rdf:value>1996</rdf:value>
+</rdf:Description>
+</ns7:year>
+<rdf:_4>
+<rdf:Description rdf:about="#dblp/article/year_4"/>
+</rdf:_4>
+<ns8:volume xmlns:ns8="#">
+<rdf:Description rdf:about="#dblp/article/volume_5">
+<rdf:value>33</rdf:value>
+</rdf:Description>
+</ns8:volume>
+<rdf:_5>
+<rdf:Description rdf:about="#dblp/article/volume_5"/>
+</rdf:_5>
+<ns9:journal xmlns:ns9="#">
+<rdf:Description rdf:about="#dblp/article/journal_6">
+<rdf:value>Acta Inf.</rdf:value>
+</rdf:Description>
+</ns9:journal>
+<rdf:_6>
+<rdf:Description rdf:about="#dblp/article/journal_6"/>
+</rdf:_6>
+<ns10:number xmlns:ns10="#">
+<rdf:Description rdf:about="#dblp/article/number_7">
+<rdf:value>7</rdf:value>
+</rdf:Description>
+</ns10:number>
+<rdf:_7>
+<rdf:Description rdf:about="#dblp/article/number_7"/>
+</rdf:_7>
+<ns11:url xmlns:ns11="#">
+<rdf:Description rdf:about="#dblp/article/url_8">
+<rdf:value>db/journals/acta/acta33.html#Saxena96</rdf:value>
+</rdf:Description>
+</ns11:url>
+<rdf:_8>
+<rdf:Description rdf:about="#dblp/article/url_8"/>
+</rdf:_8>
+<ns12:ee xmlns:ns12="#">
+<rdf:Description rdf:about="#dblp/article/ee_9">
+<rdf:value>http://dx.doi.org/10.1007/BF03036466</rdf:value>
+</rdf:Description>
+</ns12:ee>
+<rdf:_9>
+<rdf:Description rdf:about="#dblp/article/ee_9"/>
+</rdf:_9>
+</rdf:Description>
+</ns1:article>
+<rdf:_1>
+<rdf:Description rdf:about="#dblp/article"/>
+</rdf:_1>
+<ns13:article xmlns:ns13="#">
+<rdf:Description rdf:about="#dblp/article_2">
+<ns14:mdate xmlns:ns14="#">2011-01-11</ns14:mdate>
+<ns15:key xmlns:ns15="#">journals/acta/Simon83</ns15:key>
+<ns16:author xmlns:ns16="#">
+<rdf:Description rdf:about="#dblp/article_2/author">
+<rdf:value>Hans-Ulrich Simon</rdf:value>
+</rdf:Description>
+</ns16:author>
+<rdf:_1>
+<rdf:Description rdf:about="#dblp/article_2/author"/>
+</rdf:_1>
+<ns17:title xmlns:ns17="#">
+<rdf:Description rdf:about="#dblp/article_2/title_2">
+<rdf:value>Pattern Matching in Trees and Nets.</rdf:value>
+</rdf:Description>
+</ns17:title>
+<rdf:_2>
+<rdf:Description rdf:about="#dblp/article_2/title_2"/>
+</rdf:_2>
+<ns18:pages xmlns:ns18="#">
+<rdf:Description rdf:about="#dblp/article_2/pages_3">
+<rdf:value>227-248</rdf:value>
+</rdf:Description>
+</ns18:pages>
+<rdf:_3>
+<rdf:Description rdf:about="#dblp/article_2/pages_3"/>
+</rdf:_3>
+<ns19:year xmlns:ns19="#">
+<rdf:Description rdf:about="#dblp/article_2/year_4">
+<rdf:value>1983</rdf:value>
+</rdf:Description>
+</ns19:year>
+<rdf:_4>
+<rdf:Description rdf:about="#dblp/article_2/year_4"/>
+</rdf:_4>
+<ns20:volume xmlns:ns20="#">
+<rdf:Description rdf:about="#dblp/article_2/volume_5">
+<rdf:value>20</rdf:value>
+</rdf:Description>
+</ns20:volume>
+<rdf:_5>
+<rdf:Description rdf:about="#dblp/article_2/volume_5"/>
+</rdf:_5>
+<ns21:journal xmlns:ns21="#">
+<rdf:Description rdf:about="#dblp/article_2/journal_6">
+<rdf:value>Acta Inf.</rdf:value>
+</rdf:Description>
+</ns21:journal>
+<rdf:_6>
+<rdf:Description rdf:about="#dblp/article_2/journal_6"/>
+</rdf:_6>
+<ns22:url xmlns:ns22="#">
+<rdf:Description rdf:about="#dblp/article_2/url_7">
+<rdf:value>db/journals/acta/acta20.html#Simon83</rdf:value>
+</rdf:Description>
+</ns22:url>
+<rdf:_7>
+<rdf:Description rdf:about="#dblp/article_2/url_7"/>
+</rdf:_7>
+<ns23:ee xmlns:ns23="#">
+<rdf:Description rdf:about="#dblp/article_2/ee_8">
+<rdf:value>http://dx.doi.org/10.1007/BF01257084</rdf:value>
+</rdf:Description>
+</ns23:ee>
+<rdf:_8>
+<rdf:Description rdf:about="#dblp/article_2/ee_8"/>
+</rdf:_8>
+</rdf:Description>
+</ns13:article>
+<rdf:_2>
+<rdf:Description rdf:about="#dblp/article_2"/>
+</rdf:_2>
+<ns24:article xmlns:ns24="#">
+<rdf:Description rdf:about="#dblp/article_3">
+<ns25:mdate xmlns:ns25="#">2011-01-11</ns25:mdate>
+<ns26:key xmlns:ns26="#">journals/acta/GoodmanS83</ns26:key>
+<ns27:author xmlns:ns27="#">
+<rdf:Description rdf:about="#dblp/article_3/author">
+<rdf:value>Nathan Goodman</rdf:value>
+</rdf:Description>
+</ns27:author>
+<rdf:_1>
+<rdf:Description rdf:about="#dblp/article_3/author"/>
+</rdf:_1>
+<ns28:author xmlns:ns28="#">
+<rdf:Description rdf:about="#dblp/article_3/author_2">
+<rdf:value>Oded Shmueli</rdf:value>
+</rdf:Description>
+</ns28:author>
+<rdf:_2>
+<rdf:Description rdf:about="#dblp/article_3/author_2"/>
+</rdf:_2>
+<ns29:title xmlns:ns29="#">
+<rdf:Description rdf:about="#dblp/article_3/title_3">
+<rdf:value>NP-complete Problems Simplified on Tree Schemas.</rdf:value>
+</rdf:Description>
+</ns29:title>
+<rdf:_3>
+<rdf:Description rdf:about="#dblp/article_3/title_3"/>
+</rdf:_3>
+<ns30:pages xmlns:ns30="#">
+<rdf:Description rdf:about="#dblp/article_3/pages_4">
+<rdf:value>171-178</rdf:value>
+</rdf:Description>
+</ns30:pages>
+<rdf:_4>
+<rdf:Description rdf:about="#dblp/article_3/pages_4"/>
+</rdf:_4>
+<ns31:year xmlns:ns31="#">
+<rdf:Description rdf:about="#dblp/article_3/year_5">
+<rdf:value>1983</rdf:value>
+</rdf:Description>
+</ns31:year>
+<rdf:_5>
+<rdf:Description rdf:about="#dblp/article_3/year_5"/>
+</rdf:_5>
+<ns32:volume xmlns:ns32="#">
+<rdf:Description rdf:about="#dblp/article_3/volume_6">
+<rdf:value>20</rdf:value>
+</rdf:Description>
+</ns32:volume>
+<rdf:_6>
+<rdf:Description rdf:about="#dblp/article_3/volume_6"/>
+</rdf:_6>
+<ns33:journal xmlns:ns33="#">
+<rdf:Description rdf:about="#dblp/article_3/journal_7">
+<rdf:value>Acta Inf.</rdf:value>
+</rdf:Description>
+</ns33:journal>
+<rdf:_7>
+<rdf:Description rdf:about="#dblp/article_3/journal_7"/>
+</rdf:_7>
+<ns34:url xmlns:ns34="#">
+<rdf:Description rdf:about="#dblp/article_3/url_8">
+<rdf:value>db/journals/acta/acta20.html#GoodmanS83</rdf:value>
+</rdf:Description>
+</ns34:url>
+<rdf:_8>
+<rdf:Description rdf:about="#dblp/article_3/url_8"/>
+</rdf:_8>
+<ns35:ee xmlns:ns35="#">
+<rdf:Description rdf:about="#dblp/article_3/ee_9">
+<rdf:value>http://dx.doi.org/10.1007/BF00289414</rdf:value>
+</rdf:Description>
+</ns35:ee>
+<rdf:_9>
+<rdf:Description rdf:about="#dblp/article_3/ee_9"/>
+</rdf:_9>
+</rdf:Description>
+</ns24:article>
+<rdf:_3>
+<rdf:Description rdf:about="#dblp/article_3"/>
+</rdf:_3>
+<ns36:article xmlns:ns36="#">
+<rdf:Description rdf:about="#dblp/article_4">
+<ns37:mdate xmlns:ns37="#">2011-01-11</ns37:mdate>
+<ns38:key xmlns:ns38="#">journals/acta/Blum82</ns38:key>
+<ns39:author xmlns:ns39="#">
+<rdf:Description rdf:about="#dblp/article_4/author">
+<rdf:value>Norbert Blum</rdf:value>
+</rdf:Description>
+</ns39:author>
+<rdf:_1>
+<rdf:Description rdf:about="#dblp/article_4/author"/>
+</rdf:_1>
+<ns40:title xmlns:ns40="#">
+<rdf:Description rdf:about="#dblp/article_4/title_2">
+<rdf:value>On the Power of Chain Rules in Context Free Grammars.</rdf:value>
+</rdf:Description>
+</ns40:title>
+<rdf:_2>
+<rdf:Description rdf:about="#dblp/article_4/title_2"/>
+</rdf:_2>
+<ns41:pages xmlns:ns41="#">
+<rdf:Description rdf:about="#dblp/article_4/pages_3">
+<rdf:value>425-433</rdf:value>
+</rdf:Description>
+</ns41:pages>
+<rdf:_3>
+<rdf:Description rdf:about="#dblp/article_4/pages_3"/>
+</rdf:_3>
+<ns42:year xmlns:ns42="#">
+<rdf:Description rdf:about="#dblp/article_4/year_4">
+<rdf:value>1982</rdf:value>
+</rdf:Description>
+</ns42:year>
+<rdf:_4>
+<rdf:Description rdf:about="#dblp/article_4/year_4"/>
+</rdf:_4>
+<ns43:volume xmlns:ns43="#">
+<rdf:Description rdf:about="#dblp/article_4/volume_5">
+<rdf:value>17</rdf:value>
+</rdf:Description>
+</ns43:volume>
+<rdf:_5>
+<rdf:Description rdf:about="#dblp/article_4/volume_5"/>
+</rdf:_5>
+<ns44:journal xmlns:ns44="#">
+<rdf:Description rdf:about="#dblp/article_4/journal_6">
+<rdf:value>Acta Inf.</rdf:value>
+</rdf:Description>
+</ns44:journal>
+<rdf:_6>
+<rdf:Description rdf:about="#dblp/article_4/journal_6"/>
+</rdf:_6>
+<ns45:url xmlns:ns45="#">
+<rdf:Description rdf:about="#dblp/article_4/url_7">
+<rdf:value>db/journals/acta/acta17.html#Blum82</rdf:value>
+</rdf:Description>
+</ns45:url>
+<rdf:_7>
+<rdf:Description rdf:about="#dblp/article_4/url_7"/>
+</rdf:_7>
+<ns46:ee xmlns:ns46="#">
+<rdf:Description rdf:about="#dblp/article_4/ee_8">
+<rdf:value>http://dx.doi.org/10.1007/BF00264161</rdf:value>
+</rdf:Description>
+</ns46:ee>
+<rdf:_8>
+<rdf:Description rdf:about="#dblp/article_4/ee_8"/>
+</rdf:_8>
+</rdf:Description>
+</ns36:article>
+<rdf:_4>
+<rdf:Description rdf:about="#dblp/article_4"/>
+</rdf:_4>
+<ns47:article xmlns:ns47="#">
+<rdf:Description rdf:about="#dblp/article_5">
+<ns48:mdate xmlns:ns48="#">2013-11-28</ns48:mdate>
+<ns49:key xmlns:ns49="#">journals/acta/Schonhage77</ns49:key>
+<ns50:author xmlns:ns50="#">
+<rdf:Description rdf:about="#dblp/article_5/author">
+<rdf:value>Arnold Schönhage</rdf:value>
+</rdf:Description>
+</ns50:author>
+<rdf:_1>
+<rdf:Description rdf:about="#dblp/article_5/author"/>
+</rdf:_1>
+<ns51:title xmlns:ns51="#">
+<rdf:Description rdf:about="#dblp/article_5/title_2">
+<rdf:value>Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.</rdf:value>
+</rdf:Description>
+</ns51:title>
+<rdf:_2>
+<rdf:Description rdf:about="#dblp/article_5/title_2"/>
+</rdf:_2>
+<ns52:journal xmlns:ns52="#">
+<rdf:Description rdf:about="#dblp/article_5/journal_3">
+<rdf:value>Acta Inf.</rdf:value>
+</rdf:Description>
+</ns52:journal>
+<rdf:_3>
+<rdf:Description rdf:about="#dblp/article_5/journal_3"/>
+</rdf:_3>
+<ns53:volume xmlns:ns53="#">
+<rdf:Description rdf:about="#dblp/article_5/volume_4">
+<rdf:value>7</rdf:value>
+</rdf:Description>
+</ns53:volume>
+<rdf:_4>
+<rdf:Description rdf:about="#dblp/article_5/volume_4"/>
+</rdf:_4>
+<ns54:year xmlns:ns54="#">
+<rdf:Description rdf:about="#dblp/article_5/year_5">
+<rdf:value>1977</rdf:value>
+</rdf:Description>
+</ns54:year>
+<rdf:_5>
+<rdf:Description rdf:about="#dblp/article_5/year_5"/>
+</rdf:_5>
+<ns55:pages xmlns:ns55="#">
+<rdf:Description rdf:about="#dblp/article_5/pages_6">
+<rdf:value>395-398</rdf:value>
+</rdf:Description>
+</ns55:pages>
+<rdf:_6>
+<rdf:Description rdf:about="#dblp/article_5/pages_6"/>
+</rdf:_6>
+<ns56:url xmlns:ns56="#">
+<rdf:Description rdf:about="#dblp/article_5/url_7">
+<rdf:value>db/journals/acta/acta7.html#Schonhage77</rdf:value>
+</rdf:Description>
+</ns56:url>
+<rdf:_7>
+<rdf:Description rdf:about="#dblp/article_5/url_7"/>
+</rdf:_7>
+<ns57:ee xmlns:ns57="#">
+<rdf:Description rdf:about="#dblp/article_5/ee_8">
+<rdf:value>http://dx.doi.org/10.1007/BF00289470</rdf:value>
+</rdf:Description>
+</ns57:ee>
+<rdf:_8>
+<rdf:Description rdf:about="#dblp/article_5/ee_8"/>
+</rdf:_8>
+</rdf:Description>
+</ns47:article>
+<rdf:_5>
+<rdf:Description rdf:about="#dblp/article_5"/>
+</rdf:_5>
+<ns58:article xmlns:ns58="#">
+<rdf:Description rdf:about="#dblp/article_6">
+<ns59:mdate xmlns:ns59="#">2011-02-16</ns59:mdate>
+<ns60:key xmlns:ns60="#">journals/acta/Honkala11</ns60:key>
+<ns61:author xmlns:ns61="#">
+<rdf:Description rdf:about="#dblp/article_6/author">
+<rdf:value>Juha Honkala</rdf:value>
+</rdf:Description>
+</ns61:author>
+<rdf:_1>
+<rdf:Description rdf:about="#dblp/article_6/author"/>
+</rdf:_1>
+<ns62:title xmlns:ns62="#">
+<rdf:Description rdf:about="#dblp/article_6/title_2">
+<rdf:value>A characterization of rational D0L power series.</rdf:value>
+</rdf:Description>
+</ns62:title>
+<rdf:_2>
+<rdf:Description rdf:about="#dblp/article_6/title_2"/>
+</rdf:_2>
+<ns63:pages xmlns:ns63="#">
+<rdf:Description rdf:about="#dblp/article_6/pages_3">
+<rdf:value>19-24</rdf:value>
+</rdf:Description>
+</ns63:pages>
+<rdf:_3>
+<rdf:Description rdf:about="#dblp/article_6/pages_3"/>
+</rdf:_3>
+<ns64:year xmlns:ns64="#">
+<rdf:Description rdf:about="#dblp/article_6/year_4">
+<rdf:value>2011</rdf:value>
+</rdf:Description>
+</ns64:year>
+<rdf:_4>
+<rdf:Description rdf:about="#dblp/article_6/year_4"/>
+</rdf:_4>
+<ns65:volume xmlns:ns65="#">
+<rdf:Description rdf:about="#dblp/article_6/volume_5">
+<rdf:value>48</rdf:value>
+</rdf:Description>
+</ns65:volume>
+<rdf:_5>
+<rdf:Description rdf:about="#dblp/article_6/volume_5"/>
+</rdf:_5>
+<ns66:journal xmlns:ns66="#">
+<rdf:Description rdf:about="#dblp/article_6/journal_6">
+<rdf:value>Acta Inf.</rdf:value>
+</rdf:Description>
+</ns66:journal>
+<rdf:_6>
+<rdf:Description rdf:about="#dblp/article_6/journal_6"/>
+</rdf:_6>
+<ns67:number xmlns:ns67="#">
+<rdf:Description rdf:about="#dblp/article_6/number_7">
+<rdf:value>1</rdf:value>
+</rdf:Description>
+</ns67:number>
+<rdf:_7>
+<rdf:Description rdf:about="#dblp/article_6/number_7"/>
+</rdf:_7>
+<ns68:ee xmlns:ns68="#">
+<rdf:Description rdf:about="#dblp/article_6/ee_8">
+<rdf:value>http://dx.doi.org/10.1007/s00236-010-0128-1</rdf:value>
+</rdf:Description>
+</ns68:ee>
+<rdf:_8>
+<rdf:Description rdf:about="#dblp/article_6/ee_8"/>
+</rdf:_8>
+<ns69:url xmlns:ns69="#">
+<rdf:Description rdf:about="#dblp/article_6/url_9">
+<rdf:value>db/journals/acta/acta48.html#Honkala11</rdf:value>
+</rdf:Description>
+</ns69:url>
+<rdf:_9>
+<rdf:Description rdf:about="#dblp/article_6/url_9"/>
+</rdf:_9>
+</rdf:Description>
+</ns58:article>
+<rdf:_6>
+<rdf:Description rdf:about="#dblp/article_6"/>
+</rdf:_6>
+<ns70:article xmlns:ns70="#">
+<rdf:Description rdf:about="#dblp/article_7">
+<ns71:mdate xmlns:ns71="#">2011-01-11</ns71:mdate>
+<ns72:key xmlns:ns72="#">journals/acta/HuangL87</ns72:key>
+<ns73:author xmlns:ns73="#">
+<rdf:Description rdf:about="#dblp/article_7/author">
+<rdf:value>Chua-Huang Huang</rdf:value>
+</rdf:Description>
+</ns73:author>
+<rdf:_1>
+<rdf:Description rdf:about="#dblp/article_7/author"/>
+</rdf:_1>
+<ns74:author xmlns:ns74="#">
+<rdf:Description rdf:about="#dblp/article_7/author_2">
+<rdf:value>Christian Lengauer</rdf:value>
+</rdf:Description>
+</ns74:author>
+<rdf:_2>
+<rdf:Description rdf:about="#dblp/article_7/author_2"/>
+</rdf:_2>
+<ns75:title xmlns:ns75="#">
+<rdf:Description rdf:about="#dblp/article_7/title_3">
+<rdf:value>The Derivation of Systolic Implementations of Programs.</rdf:value>
+</rdf:Description>
+</ns75:title>
+<rdf:_3>
+<rdf:Description rdf:about="#dblp/article_7/title_3"/>
+</rdf:_3>
+<ns76:pages xmlns:ns76="#">
+<rdf:Description rdf:about="#dblp/article_7/pages_4">
+<rdf:value>595-632</rdf:value>
+</rdf:Description>
+</ns76:pages>
+<rdf:_4>
+<rdf:Description rdf:about="#dblp/article_7/pages_4"/>
+</rdf:_4>
+<ns77:year xmlns:ns77="#">
+<rdf:Description rdf:about="#dblp/article_7/year_5">
+<rdf:value>1987</rdf:value>
+</rdf:Description>
+</ns77:year>
+<rdf:_5>
+<rdf:Description rdf:about="#dblp/article_7/year_5"/>
+</rdf:_5>
+<ns78:volume xmlns:ns78="#">
+<rdf:Description rdf:about="#dblp/article_7/volume_6">
+<rdf:value>24</rdf:value>
+</rdf:Description>
+</ns78:volume>
+<rdf:_6>
+<rdf:Description rdf:about="#dblp/article_7/volume_6"/>
+</rdf:_6>
+<ns79:journal xmlns:ns79="#">
+<rdf:Description rdf:about="#dblp/article_7/journal_7">
+<rdf:value>Acta Inf.</rdf:value>
+</rdf:Description>
+</ns79:journal>
+<rdf:_7>
+<rdf:Description rdf:about="#dblp/article_7/journal_7"/>
+</rdf:_7>
+<ns80:number xmlns:ns80="#">
+<rdf:Description rdf:about="#dblp/article_7/number_8">
+<rdf:value>6</rdf:value>
+</rdf:Description>
+</ns80:number>
+<rdf:_8>
+<rdf:Description rdf:about="#dblp/article_7/number_8"/>
+</rdf:_8>
+<ns81:url xmlns:ns81="#">
+<rdf:Description rdf:about="#dblp/article_7/url_9">
+<rdf:value>db/journals/acta/acta24.html#HuangL87</rdf:value>
+</rdf:Description>
+</ns81:url>
+<rdf:_9>
+<rdf:Description rdf:about="#dblp/article_7/url_9"/>
+</rdf:_9>
+<ns82:ee xmlns:ns82="#">
+<rdf:Description rdf:about="#dblp/article_7/ee_10">
+<rdf:value>http://dx.doi.org/10.1007/BF00282618</rdf:value>
+</rdf:Description>
+</ns82:ee>
+<rdf:_10>
+<rdf:Description rdf:about="#dblp/article_7/ee_10"/>
+</rdf:_10>
+</rdf:Description>
+</ns70:article>
+<rdf:_7>
+<rdf:Description rdf:about="#dblp/article_7"/>
+</rdf:_7>
+<ns83:article xmlns:ns83="#">
+<rdf:Description rdf:about="#dblp/article_8">
+<ns84:mdate xmlns:ns84="#">2015-01-08</ns84:mdate>
+<ns85:key xmlns:ns85="#">journals/acta/FinkelC87</ns85:key>
+<ns86:author xmlns:ns86="#">
+<rdf:Description rdf:about="#dblp/article_8/author">
+<rdf:value>Alain Finkel</rdf:value>
+</rdf:Description>
+</ns86:author>
+<rdf:_1>
+<rdf:Description rdf:about="#dblp/article_8/author"/>
+</rdf:_1>
+<ns87:author xmlns:ns87="#">
+<rdf:Description rdf:about="#dblp/article_8/author_2">
+<rdf:value>Annie Choquet</rdf:value>
+</rdf:Description>
+</ns87:author>
+<rdf:_2>
+<rdf:Description rdf:about="#dblp/article_8/author_2"/>
+</rdf:_2>
+<ns88:title xmlns:ns88="#">
+<rdf:Description rdf:about="#dblp/article_8/title_3">
+<rdf:value>Fifo Nets Without Order Deadlock.</rdf:value>
+</rdf:Description>
+</ns88:title>
+<rdf:_3>
+<rdf:Description rdf:about="#dblp/article_8/title_3"/>
+</rdf:_3>
+<ns89:pages xmlns:ns89="#">
+<rdf:Description rdf:about="#dblp/article_8/pages_4">
+<rdf:value>15-36</rdf:value>
+</rdf:Description>
+</ns89:pages>
+<rdf:_4>
+<rdf:Description rdf:about="#dblp/article_8/pages_4"/>
+</rdf:_4>
+<ns90:year xmlns:ns90="#">
+<rdf:Description rdf:about="#dblp/article_8/year_5">
+<rdf:value>1988</rdf:value>
+</rdf:Description>
+</ns90:year>
+<rdf:_5>
+<rdf:Description rdf:about="#dblp/article_8/year_5"/>
+</rdf:_5>
+<ns91:volume xmlns:ns91="#">
+<rdf:Description rdf:about="#dblp/article_8/volume_6">
+<rdf:value>25</rdf:value>
+</rdf:Description>
+</ns91:volume>
+<rdf:_6>
+<rdf:Description rdf:about="#dblp/article_8/volume_6"/>
+</rdf:_6>
+<ns92:journal xmlns:ns92="#">
+<rdf:Description rdf:about="#dblp/article_8/journal_7">
+<rdf:value>Acta Inf.</rdf:value>
+</rdf:Description>
+</ns92:journal>
+<rdf:_7>
+<rdf:Description rdf:about="#dblp/article_8/journal_7"/>
+</rdf:_7>
+<ns93:number xmlns:ns93="#">
+<rdf:Description rdf:about="#dblp/article_8/number_8">
+<rdf:value>1</rdf:value>
+</rdf:Description>
+</ns93:number>
+<rdf:_8>
+<rdf:Description rdf:about="#dblp/article_8/number_8"/>
+</rdf:_8>
+<ns94:url xmlns:ns94="#">
+<rdf:Description rdf:about="#dblp/article_8/url_9">
+<rdf:value>db/journals/acta/acta25.html#FinkelC87</rdf:value>
+</rdf:Description>
+</ns94:url>
+<rdf:_9>
+<rdf:Description rdf:about="#dblp/article_8/url_9"/>
+</rdf:_9>
+<ns95:ee xmlns:ns95="#">
+<rdf:Description rdf:about="#dblp/article_8/ee_10">
+<rdf:value>http://dx.doi.org/10.1007/BF00268843</rdf:value>
+</rdf:Description>
+</ns95:ee>
+<rdf:_10>
+<rdf:Description rdf:about="#dblp/article_8/ee_10"/>
+</rdf:_10>
+</rdf:Description>
+</ns83:article>
+<rdf:_8>
+<rdf:Description rdf:about="#dblp/article_8"/>
+</rdf:_8>
+<ns96:article xmlns:ns96="#">
+<rdf:Description rdf:about="#dblp/article_9">
+<ns97:mdate xmlns:ns97="#">2011-01-11</ns97:mdate>
+<ns98:key xmlns:ns98="#">journals/acta/Biskup78</ns98:key>
+<ns99:author xmlns:ns99="#">
+<rdf:Description rdf:about="#dblp/article_9/author">
+<rdf:value>Joachim Biskup</rdf:value>
+</rdf:Description>
+</ns99:author>
+<rdf:_1>
+<rdf:Description rdf:about="#dblp/article_9/author"/>
+</rdf:_1>
+<ns100:title xmlns:ns100="#">
+<rdf:Description rdf:about="#dblp/article_9/title_2">
+<rdf:value>On the Complementation Rule for Multivalued Dependencies in Database Relations.</rdf:value>
+</rdf:Description>
+</ns100:title>
+<rdf:_2>
+<rdf:Description rdf:about="#dblp/article_9/title_2"/>
+</rdf:_2>
+<ns101:pages xmlns:ns101="#">
+<rdf:Description rdf:about="#dblp/article_9/pages_3">
+<rdf:value>297-305</rdf:value>
+</rdf:Description>
+</ns101:pages>
+<rdf:_3>
+<rdf:Description rdf:about="#dblp/article_9/pages_3"/>
+</rdf:_3>
+<ns102:year xmlns:ns102="#">
+<rdf:Description rdf:about="#dblp/article_9/year_4">
+<rdf:value>1978</rdf:value>
+</rdf:Description>
+</ns102:year>
+<rdf:_4>
+<rdf:Description rdf:about="#dblp/article_9/year_4"/>
+</rdf:_4>
+<ns103:volume xmlns:ns103="#">
+<rdf:Description rdf:about="#dblp/article_9/volume_5">
+<rdf:value>10</rdf:value>
+</rdf:Description>
+</ns103:volume>
+<rdf:_5>
+<rdf:Description rdf:about="#dblp/article_9/volume_5"/>
+</rdf:_5>
+<ns104:journal xmlns:ns104="#">
+<rdf:Description rdf:about="#dblp/article_9/journal_6">
+<rdf:value>Acta Inf.</rdf:value>
+</rdf:Description>
+</ns104:journal>
+<rdf:_6>
+<rdf:Description rdf:about="#dblp/article_9/journal_6"/>
+</rdf:_6>
+<ns105:url xmlns:ns105="#">
+<rdf:Description rdf:about="#dblp/article_9/url_7">
+<rdf:value>db/journals/acta/acta10.html#Biskup78</rdf:value>
+</rdf:Description>
+</ns105:url>
+<rdf:_7>
+<rdf:Description rdf:about="#dblp/article_9/url_7"/>
+</rdf:_7>
+<ns106:ee xmlns:ns106="#">
+<rdf:Description rdf:about="#dblp/article_9/ee_8">
+<rdf:value>http://dx.doi.org/10.1007/BF00264322</rdf:value>
+</rdf:Description>
+</ns106:ee>
+<rdf:_8>
+<rdf:Description rdf:about="#dblp/article_9/ee_8"/>
+</rdf:_8>
+</rdf:Description>
+</ns96:article>
+<rdf:_9>
+<rdf:Description rdf:about="#dblp/article_9"/>
+</rdf:_9>
+<ns107:article xmlns:ns107="#">
+<rdf:Description rdf:about="#dblp/article_10">
+<ns108:mdate xmlns:ns108="#">2015-07-14</ns108:mdate>
+<ns109:key xmlns:ns109="#">journals/acta/BozapalidisFR12</ns109:key>
+<ns110:author xmlns:ns110="#">
+<rdf:Description rdf:about="#dblp/article_10/author">
+<rdf:value>Symeon Bozapalidis</rdf:value>
+</rdf:Description>
+</ns110:author>
+<rdf:_1>
+<rdf:Description rdf:about="#dblp/article_10/author"/>
+</rdf:_1>
+<ns111:author xmlns:ns111="#">
+<rdf:Description rdf:about="#dblp/article_10/author_2">
+<rdf:value>Zoltán Fülöp 0001</rdf:value>
+</rdf:Description>
+</ns111:author>
+<rdf:_2>
+<rdf:Description rdf:about="#dblp/article_10/author_2"/>
+</rdf:_2>
+<ns112:author xmlns:ns112="#">
+<rdf:Description rdf:about="#dblp/article_10/author_3">
+<rdf:value>George Rahonis</rdf:value>
+</rdf:Description>
+</ns112:author>
+<rdf:_3>
+<rdf:Description rdf:about="#dblp/article_10/author_3"/>
+</rdf:_3>
+<ns113:title xmlns:ns113="#">
+<rdf:Description rdf:about="#dblp/article_10/title_4">
+<rdf:value>Equational weighted tree transformations.</rdf:value>
+</rdf:Description>
+</ns113:title>
+<rdf:_4>
+<rdf:Description rdf:about="#dblp/article_10/title_4"/>
+</rdf:_4>
+<ns114:pages xmlns:ns114="#">
+<rdf:Description rdf:about="#dblp/article_10/pages_5">
+<rdf:value>29-52</rdf:value>
+</rdf:Description>
+</ns114:pages>
+<rdf:_5>
+<rdf:Description rdf:about="#dblp/article_10/pages_5"/>
+</rdf:_5>
+<ns115:year xmlns:ns115="#">
+<rdf:Description rdf:about="#dblp/article_10/year_6">
+<rdf:value>2012</rdf:value>
+</rdf:Description>
+</ns115:year>
+<rdf:_6>
+<rdf:Description rdf:about="#dblp/article_10/year_6"/>
+</rdf:_6>
+<ns116:volume xmlns:ns116="#">
+<rdf:Description rdf:about="#dblp/article_10/volume_7">
+<rdf:value>49</rdf:value>
+</rdf:Description>
+</ns116:volume>
+<rdf:_7>
+<rdf:Description rdf:about="#dblp/article_10/volume_7"/>
+</rdf:_7>
+<ns117:journal xmlns:ns117="#">
+<rdf:Description rdf:about="#dblp/article_10/journal_8">
+<rdf:value>Acta Inf.</rdf:value>
+</rdf:Description>
+</ns117:journal>
+<rdf:_8>
+<rdf:Description rdf:about="#dblp/article_10/journal_8"/>
+</rdf:_8>
+<ns118:number xmlns:ns118="#">
+<rdf:Description rdf:about="#dblp/article_10/number_9">
+<rdf:value>1</rdf:value>
+</rdf:Description>
+</ns118:number>
+<rdf:_9>
+<rdf:Description rdf:about="#dblp/article_10/number_9"/>
+</rdf:_9>
+<ns119:ee xmlns:ns119="#">
+<rdf:Description rdf:about="#dblp/article_10/ee_10">
+<rdf:value>http://dx.doi.org/10.1007/s00236-011-0148-5</rdf:value>
+</rdf:Description>
+</ns119:ee>
+<rdf:_10>
+<rdf:Description rdf:about="#dblp/article_10/ee_10"/>
+</rdf:_10>
+<ns120:url xmlns:ns120="#">
+<rdf:Description rdf:about="#dblp/article_10/url_11">
+<rdf:value>db/journals/acta/acta49.html#BozapalidisFR12</rdf:value>
+</rdf:Description>
+</ns120:url>
+<rdf:_11>
+<rdf:Description rdf:about="#dblp/article_10/url_11"/>
+</rdf:_11>
+</rdf:Description>
+</ns107:article>
+<rdf:_10>
+<rdf:Description rdf:about="#dblp/article_10"/>
+</rdf:_10>
+</rdf:Description>
+</ns0:dblp>
+</rdf:Description>
+</rdf:RDF>

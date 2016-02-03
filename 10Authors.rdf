@@ -1,0 +1,124 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dblp.uni-trier.de/article/">
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/article/Fifo Nets Without Order Deadlock.">
+    <j.0:key>journals/acta/FinkelC87</j.0:key>
+    <j.0:ee>http://dx.doi.org/10.1007/BF00268843</j.0:ee>
+    <j.0:year>1988</j.0:year>
+    <j.0:url>db/journals/acta/acta25.html#FinkelC87</j.0:url>
+    <j.0:author>Alain Finkel,Annie Choquet,</j.0:author>
+    <j.0:journal>Acta Inf.</j.0:journal>
+    <j.0:number>1</j.0:number>
+    <j.0:mdate>2015-01-08</j.0:mdate>
+    <j.0:volume>25</j.0:volume>
+    <j.0:pages>15-36</j.0:pages>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/article/The Derivation of Systolic Implementations of Programs.">
+    <j.0:year>1987</j.0:year>
+    <j.0:journal>Acta Inf.</j.0:journal>
+    <j.0:volume>24</j.0:volume>
+    <j.0:key>journals/acta/HuangL87</j.0:key>
+    <j.0:url>db/journals/acta/acta24.html#HuangL87</j.0:url>
+    <j.0:pages>595-632</j.0:pages>
+    <j.0:number>6</j.0:number>
+    <j.0:mdate>2011-01-11</j.0:mdate>
+    <j.0:ee>http://dx.doi.org/10.1007/BF00282618</j.0:ee>
+    <j.0:author>Chua-Huang Huang,Christian Lengauer,</j.0:author>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/article/NP-complete Problems Simplified on Tree Schemas.">
+    <j.0:mdate>2011-01-11</j.0:mdate>
+    <j.0:author>Nathan Goodman,Oded Shmueli,</j.0:author>
+    <j.0:volume>20</j.0:volume>
+    <j.0:key>journals/acta/GoodmanS83</j.0:key>
+    <j.0:journal>Acta Inf.</j.0:journal>
+    <j.0:number></j.0:number>
+    <j.0:year>1983</j.0:year>
+    <j.0:pages>171-178</j.0:pages>
+    <j.0:ee>http://dx.doi.org/10.1007/BF00289414</j.0:ee>
+    <j.0:url>db/journals/acta/acta20.html#GoodmanS83</j.0:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/article/On the Complementation Rule for Multivalued Dependencies in Database Relations.">
+    <j.0:journal>Acta Inf.</j.0:journal>
+    <j.0:pages>297-305</j.0:pages>
+    <j.0:year>1978</j.0:year>
+    <j.0:key>journals/acta/Biskup78</j.0:key>
+    <j.0:mdate>2011-01-11</j.0:mdate>
+    <j.0:author>Joachim Biskup,</j.0:author>
+    <j.0:number></j.0:number>
+    <j.0:ee>http://dx.doi.org/10.1007/BF00264322</j.0:ee>
+    <j.0:url>db/journals/acta/acta10.html#Biskup78</j.0:url>
+    <j.0:volume>10</j.0:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/article/A characterization of rational D0L power series.">
+    <j.0:mdate>2011-02-16</j.0:mdate>
+    <j.0:number>1</j.0:number>
+    <j.0:ee>db/journals/acta/acta48.html#Honkala11</j.0:ee>
+    <j.0:author>Juha Honkala,</j.0:author>
+    <j.0:url>db/journals/acta/acta48.html#Honkala11</j.0:url>
+    <j.0:volume>48</j.0:volume>
+    <j.0:journal>Acta Inf.</j.0:journal>
+    <j.0:year>2011</j.0:year>
+    <j.0:key>journals/acta/Honkala11</j.0:key>
+    <j.0:pages>19-24</j.0:pages>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/article/Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.">
+    <j.0:volume>7</j.0:volume>
+    <j.0:ee>http://dx.doi.org/10.1007/BF00289470</j.0:ee>
+    <j.0:pages>395-398</j.0:pages>
+    <j.0:journal>Acta Inf.</j.0:journal>
+    <j.0:author>Arnold Schönhage,</j.0:author>
+    <j.0:number></j.0:number>
+    <j.0:key>journals/acta/Schonhage77</j.0:key>
+    <j.0:url>db/journals/acta/acta7.html#Schonhage77</j.0:url>
+    <j.0:year>1977</j.0:year>
+    <j.0:mdate>2013-11-28</j.0:mdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/article/On the Power of Chain Rules in Context Free Grammars.">
+    <j.0:ee>http://dx.doi.org/10.1007/BF00264161</j.0:ee>
+    <j.0:number></j.0:number>
+    <j.0:author>Norbert Blum,</j.0:author>
+    <j.0:volume>17</j.0:volume>
+    <j.0:year>1982</j.0:year>
+    <j.0:mdate>2011-01-11</j.0:mdate>
+    <j.0:url>db/journals/acta/acta17.html#Blum82</j.0:url>
+    <j.0:pages>425-433</j.0:pages>
+    <j.0:key>journals/acta/Blum82</j.0:key>
+    <j.0:journal>Acta Inf.</j.0:journal>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/article/Equational weighted tree transformations.">
+    <j.0:ee>db/journals/acta/acta49.html#BozapalidisFR12</j.0:ee>
+    <j.0:mdate>2015-07-14</j.0:mdate>
+    <j.0:year>2012</j.0:year>
+    <j.0:key>journals/acta/BozapalidisFR12</j.0:key>
+    <j.0:volume>49</j.0:volume>
+    <j.0:author>Symeon Bozapalidis,Zoltán Fülöp 0001,George Rahonis,</j.0:author>
+    <j.0:journal>Acta Inf.</j.0:journal>
+    <j.0:number>1</j.0:number>
+    <j.0:url>db/journals/acta/acta49.html#BozapalidisFR12</j.0:url>
+    <j.0:pages>29-52</j.0:pages>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/article/Pattern Matching in Trees and Nets.">
+    <j.0:volume>20</j.0:volume>
+    <j.0:pages>227-248</j.0:pages>
+    <j.0:key>journals/acta/Simon83</j.0:key>
+    <j.0:number></j.0:number>
+    <j.0:mdate>2011-01-11</j.0:mdate>
+    <j.0:journal>Acta Inf.</j.0:journal>
+    <j.0:year>1983</j.0:year>
+    <j.0:ee>http://dx.doi.org/10.1007/BF01257084</j.0:ee>
+    <j.0:author>Hans-Ulrich Simon,</j.0:author>
+    <j.0:url>db/journals/acta/acta20.html#Simon83</j.0:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dblp.uni-trier.de/article/Parallel Integer Sorting and Simulation Amongst CRCW Models.">
+    <j.0:key>journals/acta/Saxena96</j.0:key>
+    <j.0:url>db/journals/acta/acta33.html#Saxena96</j.0:url>
+    <j.0:author>Sanjeev Saxena,</j.0:author>
+    <j.0:pages>607-619</j.0:pages>
+    <j.0:year>1996</j.0:year>
+    <j.0:mdate>2011-01-11</j.0:mdate>
+    <j.0:volume>33</j.0:volume>
+    <j.0:number>7</j.0:number>
+    <j.0:ee>http://dx.doi.org/10.1007/BF03036466</j.0:ee>
+    <j.0:journal>Acta Inf.</j.0:journal>
+  </rdf:Description>
+</rdf:RDF>
